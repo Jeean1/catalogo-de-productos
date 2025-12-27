@@ -10,7 +10,7 @@ Pequeña aplicación de ejemplo con backend en Express (Node.js) y frontend con 
 
 **Instalación (global)**
 
-- **Clonar repo**: `git clone <git@github.com:Jeean1/catalogo-de-productos.git>` y abrir la carpeta raíz del proyecto.
+- **Clonar repo**: `git clone git@github.com:Jeean1/catalogo-de-productos.git` y abrir la carpeta raíz del proyecto.
 
 **Backend**
 
